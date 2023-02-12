@@ -1,0 +1,24 @@
+.button{
+  color:#b9b900;
+  background-color:rgba(0, 0, 150, 0.7);
+  padding:10px;
+  font-size:20px;
+  border-block: 30px blueviolet;
+  border-radius:30px;
+  cursor: pointer;
+  border-block-width:4px;
+  border-block-color:black;
+}
+.bgColor{
+    background-color:rgba(0, 0, 0, 0.5);
+
+}
+.row{
+  margin:4px;
+}
+.row input{
+  border-radius:30px;
+  padding-block:10px 5px;
+  max-width:145px;
+  margin:12px auto;
+}

@@ -1,0 +1,37 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: url('img2.jpg');
+  background-size: cover;
+  overflow: hidden;
+}
+.div1{
+
+  font-size:30px;
+  background-color:#6c6a6a;
+  
+}
+.text-center{
+  color:white;
+  font-size:32px;
+}
+  .box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box div {
+  width: 100px;
+  height: 100px;
+}
+
+.mx-auto{
+  margin:auto;
+}
+.m-w-30{
+  width:170px;
+}
+.items-center{
+  align-items:center;
+}
